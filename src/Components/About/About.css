@@ -1,0 +1,23 @@
+#About {
+    background-color:white;
+    padding: 50px;
+    text-align: center; 
+  }
+  
+  #About h1 {
+    font-size: 2.5rem; 
+    color: black; 
+    margin-bottom: 20px; 
+  }
+  
+  #About p {
+    font-size: 1.2rem; 
+    line-height: 1.6; 
+    color: white;
+    max-width: 800px; 
+    margin: 0 auto; 
+  }
+  
+  #About br {
+    margin: 10px 0; 
+  }

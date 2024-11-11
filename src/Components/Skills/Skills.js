@@ -8,7 +8,7 @@ import CSSDesign from '../../assets/css.png';
 import BootstrapDesign from '../../assets/bootstrap.png';
 const Skills = () => {
   return (
-    <section id='skills'>
+    <section id='Skills'>
         <span className='skillsTitle'>My Skills<br/></span>
         <span className='skillDesc'>In this section I am sharing all my skills which I have been grabbed from all the 3years.<br/>
             As an experienced candidate in the IT indrustry which is fast & smart growing network & worked with the <br/>

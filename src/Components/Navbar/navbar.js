@@ -14,7 +14,7 @@ const Navbar = () => {
             <Link  activeClass='active' to='Experience' spy={true} smooth={true} offset={-50}  duration={500}className='desktopMenuListItem' >Experience</Link>
             </div> 
             <button className='desktopMenubtn'onClick={()=>{
-            document.getElementById('contact').scrollIntoView({ behavior: 'smooth' });
+            document.getElementById('Contact').scrollIntoView({ behavior: 'smooth' });
             }}>
                 <img src={contactImg}alt='' className='destopMenuImg'/>Contact Me  
                 </button>  

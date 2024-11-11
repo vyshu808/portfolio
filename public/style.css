@@ -4,6 +4,8 @@
     box-sizing: border-box;
     text-decoration: none;
     background: transparent;
+    background-color: lightslategray;
+    border-color: white;
     font-family: 'Poppins', sans-serif;
 }
 body{

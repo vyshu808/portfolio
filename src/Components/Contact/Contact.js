@@ -7,7 +7,7 @@ import github from '../../assets/github.png';
 import email from '../../assets/email.png'
 const Contact = () => {
   return (
-    <section id='contactPage'>
+    <section id='ContactPage'>
     <div id='Companies I worked '>
     <h1 className='contactPageTitle'>Companies I worked</h1>
     <p className='companyDesc'>

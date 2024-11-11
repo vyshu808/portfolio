@@ -1,4 +1,4 @@
-#skills {
+#Skills {
     overflow: hidden;
     width: 200rem;
     max-width:100rem ;
@@ -14,10 +14,11 @@
     font-weight: 600;
     padding-top: 3rem;
     margin-bottom: 1.5rem;
+    color: black;
 }
 .skillDesc{
     font-weight: 400;
-    font-size: 1rem;
+    font-size: 1.2rem;
     max-width: 50rem;
     padding: 0 2rem;
 }
@@ -32,7 +33,7 @@
     margin: 1rem;
     padding: 1.5rem 2rem;
     border-radius: 0.5rem;
-    background: rgb(50,50,50);
+    /* background: rgb(50,50,50); */
 }
 .skillBarImg {
     width: 50px; 
@@ -41,8 +42,10 @@
     margin-right: 10px; 
 }
 .skillBarText>p {
-font-size: 0.9rem;
+font-size: 1.5rem;
 font-weight: 200;
 text-align: center;
-
+}
+.skillBarText>h2 {
+color: black;
 }

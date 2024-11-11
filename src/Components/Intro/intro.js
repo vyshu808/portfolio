@@ -5,7 +5,7 @@ import btnImg from '../../assets/hireme.png';
 
 function intro() {
     return (
-        <section id='intro'>
+        <section id='Intro'>
             <div className='introContent'>
                 <span className='hello'>Hello,</span>
                 <span className='introtext'>I'm <span className='introName'>Sreepada Vaishnavi</span><br />Frontend Developer</span>
