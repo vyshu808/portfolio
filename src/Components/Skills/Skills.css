@@ -7,7 +7,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    margin: 1rem auto;
+    margin: 20px;
 }
 .skillsTitle{
     font-size: 3rem;
@@ -32,7 +32,7 @@
     display: flex;
     margin: 1rem;
     padding: 1.5rem 2rem;
-    border-radius: 0.5rem;
+    border-radius: 1rem;
     /* background: rgb(50,50,50); */
 }
 .skillBarImg {
@@ -45,6 +45,7 @@
 font-size: 1.5rem;
 font-weight: 200;
 text-align: center;
+margin: 0.5rem;
 }
 .skillBarText>h2 {
 color: black;
